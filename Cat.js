@@ -12,4 +12,8 @@ Cat.prototype.eat = function(animal) {
 	}
 };
 
+Cat.prototype.die = function() {
+	
+}
+
 module.exports = Cat;
